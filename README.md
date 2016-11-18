@@ -17,4 +17,4 @@ See you soon!
 
 
 Day 1:
-Just another try!
+Just another example!
